@@ -1,0 +1,7 @@
+#config.yaml
+path: C:\Users\noelm\Documents\PROJECTS\YOLO\Head Detection
+train: images/train 
+val: images/train
+
+names:
+  0: head
