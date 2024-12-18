@@ -1,5 +1,5 @@
 #config.yaml
-path: C:\Users\noelm\Documents\PROJECTS\YOLO\Head Detection
+path: C:\Users\noelm\Documents\PROJECTS\YOLO\2. Head Detection using YOLO
 train: images/train 
 val: images/train
 
